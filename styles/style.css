@@ -99,7 +99,7 @@ h1, h2, p {
 
 .two-columns {
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
   align-items: flex-start;
   width: 80%;
 }
@@ -111,14 +111,6 @@ h1, h2, p {
 .two-columns__right {
   width: 80%;
   min-width: 784px;
-}
-
-/* Начало CSS для блока description */
-.two-columns {
-  width: 80%;
-  display: flex;
-  justify-content: space-between;
-
 }
 
 .two-columns__brief {
@@ -156,7 +148,7 @@ span {
 
 .digits {
   display: flex;
-  flex-direction: column; 
+  flex-direction: column;
   padding-top: 100px;
   margin-bottom: 20px;
 
