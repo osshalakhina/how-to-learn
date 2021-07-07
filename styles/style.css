@@ -97,20 +97,26 @@ h1, h2, p {
 
 }
 
-.two-columns {
+.two-columns__left {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   align-items: flex-start;
   width: 80%;
-}
-
-.two-columns__left {
   width: 175px;
 }
 
 .two-columns__right {
   width: 80%;
   min-width: 784px;
+}
+
+/* Начало CSS для блока description */
+.two-columns {
+  width: 80%;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+
 }
 
 .two-columns__brief {
@@ -384,12 +390,17 @@ span {
   font-size: 18px;
   line-height: 30px;
   font-weight: normal;
+}
 
+.footer__column-heading_items a {
+  color: #fff;
+  text-decoration: none;
 }
 
 .footer__column-links span{
   font-weight: 400;
-
+  color: #fff;
+  text-decoration: none;
 }
 
 .footer__column-links-item {
