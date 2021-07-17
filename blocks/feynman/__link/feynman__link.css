@@ -10,7 +10,7 @@
   z-index: 5;
 }
 
-.feinman__link:hover {
+.feynman__link:hover {
   opacity: 0.5;
   transition: opacity 1s linear;
 }
