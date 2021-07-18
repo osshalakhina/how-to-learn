@@ -28,10 +28,10 @@
 @import url(../blocks/cards/__title/cards__title.css);
 
 @import url(../blocks/footer/__author/footer__author.css);
-@import url(../blocks/footer/__column-heading/footer__column-heading.css);
 @import url(../blocks/footer/__column-link/footer__column-link.css);
 @import url(../blocks/footer/__column-links/footer__column-links.css);
 @import url(../blocks/footer/__column/_content_copyright/footer__column_content_copyright.css);
+@import url(../blocks/footer/__column-heading/footer__column-heading.css);
 @import url(../blocks/footer/__column/_content_info/footer__column_content_info.css);
 @import url(../blocks/footer/__column/_content_social/footer__column_content_social.css);
 @import url(../blocks/footer/__column/footer__column.css);
@@ -44,7 +44,9 @@
 @import url(../blocks/header/__subtitle/header__subtitle.css);
 @import url(../blocks/header/__title/header__title.css);
 
-@import url(../blocks/kaufman/__triangle/kaufman__triangle.css);
+@import url(../blocks/feynman/__link/feynman__link.css);
+@import url(../blocks/feynman/__subtitle/feynman__subtitle.css);
+@import url(../blocks/feynman/__title/feynman__title.css);
 
 @import url(../blocks/khan/__author/khan__author.css);
 @import url(../blocks/khan/__book-container/khan__book-container.css);
@@ -64,8 +66,9 @@
 
 @import url(../blocks/section-title/_theme_dark/section-title_theme_dark.css);
 
-
+@import url(../blocks/table/__heading/table__heading.css);
 @import url(../blocks/table/__heading/_theme_dark/);
+@import url(../blocks/table/__text/table__text.css);
 @import url(../blocks/table/__text/_theme_dark/table__text_theme_dark.css);
 @import url(../blocks/table/__cell/table__cell.css);
 @import url(../blocks/table/__cell/_theme_dark.css/table__cell_theme_dark.css);
@@ -80,9 +83,13 @@
 @import url(../blocks/video/__iframe/video__iframe.css);
 @import url(../blocks/video/__iframes/video__iframes.css);
 
-@import url(../blocks/feynman/__link/feynman__link.css);
-@import url(../blocks/feynman/__subtitle/feynman__subtitle.css);
-@import url(../blocks/feynman/__title/feynman__title.css);
+@import url(../blocks/kaufman/__triangle/kaufman__triangle.css);
+
+
+
+
+
+
 
 
 
