@@ -18,5 +18,5 @@ ______
 
 ### Ссылка на сайт:
 ______
-[Ссылка на проект](https://osshalakhina.github.io/how-to-learn/)
+[osshalakhina.github.io/how-to-learn/](https://osshalakhina.github.io/how-to-learn/)
 
