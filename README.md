@@ -23,5 +23,5 @@ ______
 
 ### Ссылка на сайт:
 ______
-file:///Users/olgashalakhina/Desktop/how-to-learn/index.html
+[Ссылка на проект](https://osshalakhina.github.io/how-to-learn/)
 
