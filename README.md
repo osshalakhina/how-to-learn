@@ -1,6 +1,6 @@
 ### Научиться учиться. Лендинг Яндекс Практикума
-* Спринт 1 & 2 проекта: how-to-learn
 ______
+* Спринт 1 & 2 проекта: how-to-learn
 
 ### Описание:
 
@@ -24,8 +24,8 @@ ______
 ______
 
 ### How to learn. Landing page for Yandex Praktikum
-* Sprint 1 & 2 of project: how-to-learn
 ______
+* Sprint 1 & 2 of project: how-to-learn
 
 ### Description:
 
@@ -45,4 +45,3 @@ ______
 ### Link on site:
 
 [https://osshalakhina.github.io/how-to-learn/](https://osshalakhina.github.io/how-to-learn/)
-______
