@@ -20,7 +20,7 @@ ______
 ______
 [https://osshalakhina.github.io/how-to-learn/](https://osshalakhina.github.io/how-to-learn/)
 
-
+Translation to english:
 
 ### How to learn. Landing page for Yandex Praktikum
 Sprint 1 & 2 of project: how-to-learn
