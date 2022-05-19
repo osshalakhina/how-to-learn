@@ -1,4 +1,4 @@
-# Project view
+# Preview
 
 ![](./images/how-to-learn.gif)
 
