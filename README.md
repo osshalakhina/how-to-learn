@@ -1,7 +1,3 @@
-# Preview
-
-![](./images/how-to-learn.gif)
-
 ______
 
 ### Научиться учиться. Лендинг Яндекс Практикума
@@ -51,3 +47,7 @@ ______
 ### Link on site:
 
 [https://osshalakhina.github.io/how-to-learn/](https://osshalakhina.github.io/how-to-learn/)
+
+# Preview
+
+![](./images/how-to-learn.gif)
